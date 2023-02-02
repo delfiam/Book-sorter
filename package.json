@@ -12,11 +12,14 @@
     "expo": "~47.0.12",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
+    "react-dom": "18.0",
     "react-multivalue-text-input": "^2.3.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-native-tag-input": "^0.0.21",
+    "react-native-web": "~0.18.7"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.19.3"
   },
   "private": true
 }
